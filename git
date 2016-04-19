@@ -1,5 +1,6 @@
 hey = raw_input("Enter")
+again =raw_input("Enert")
 print "GITLAB"
 print hey
-print "Again"
+print again
 print "ulit"
